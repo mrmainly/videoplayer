@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <h1 style={{ color: 'white' }}>Video player for you</h1>
       <div className="videoPlayer" >
-        <ReactPlayer url='https://www.youtube.com/watch?v=ysz5S6PUM-U' width="100%" height="800px" />
+        <ReactPlayer url='http://80.73.69.18:6023/play/demo/?lang=ru' width="100%" height="800px" />
       </div>
     </div>
   );
